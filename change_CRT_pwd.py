@@ -6,7 +6,7 @@ def modify_bacth(path, pwd, username):
 
     for filename in files:
         # pass_name = [
-        # "ASA-Tenant-01.ini",    #排除不需要改密码的文件333
+        # "ASA-Tenant-01.ini",    #排除不需要改密码的文件555
         # ]
         # if filename in pass_name:
         #     continue
