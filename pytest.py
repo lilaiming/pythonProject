@@ -2,4 +2,4 @@
 # 本脚由lilaiming编写，用于学习使用！
 # Email:essid@qq.com
 
-print("test")
+print("test2")
